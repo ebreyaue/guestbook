@@ -1,6 +1,5 @@
-<link rel="stylesheet" href="https://cdn.korzh.com/metroui/v4/css/metro-all.min.css">
-<script src="https://cdn.korzh.com/metroui/v4.5.1/js/metro.min.js"></script>
 
+<img src="https://cdn.korzh.com/metroui/v4/css/metro-all.min.css" width="800" height="400" alt="Click to see the source">
 
 <h1>Guest Book</h1>
 <p>
