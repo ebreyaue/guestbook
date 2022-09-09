@@ -1,0 +1,15 @@
+.header{
+    background:#333;
+    padding:20px;
+    color:#FFF;
+    }
+    
+    .header-top{
+    display:flex;
+    justify-content: space-between;
+    }
+        
+    .header-logo{
+    margin:0%;
+    }
+    

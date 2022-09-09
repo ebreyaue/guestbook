@@ -1,0 +1,19 @@
+<div id="notification"></div>
+
+<div class="form-group">
+<form action="./scripts/publish.php" id="visitorbook_form" method="post">
+<label>Name</label>
+
+<input type="text" name="name" id="name" placeholder="Name" class="form-control">
+
+<label>Email</label>
+<input type="text" name="email" id="email" placeholder="Email" class="form-control">
+<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+
+<label>Comment</label>
+<textarea rows="3" name="content" id="content" class="form-control"></textarea><p></p>
+<input type="submit"  class="btn btn-primary mb-2" value="send" onclick="load()">
+</form>
+</div>
+<hr>
+
